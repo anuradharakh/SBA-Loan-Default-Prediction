@@ -88,6 +88,7 @@ This is a binary classification problem:
 ---
 
 ## Project Structure
-── SBA_loan_default_prediction_pipeline.ipynb
-├── data/ 
-└── README.md
+
+- SBA_loan_default_prediction_pipeline.ipynb
+- data/
+- README.md
