@@ -16,7 +16,7 @@ This is a binary classification problem:
 
 ---
 
-## Dataset
+## [Dataset](https://data.sba.gov/dataset/7-a-504-foia)
 - Source: SBA 7(a) loan program data
 - Size: ~1.9 million records
 - Features include:
